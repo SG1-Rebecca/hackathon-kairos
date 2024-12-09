@@ -1,1 +1,1 @@
-# hackathon-kairos
+# hackathon Paris 2024
