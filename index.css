@@ -5,3 +5,7 @@
     --orange: #FFD6BC;
     --jaune: #FFF8B5;
 }
+body{
+  font-family: Poppins;
+  background-color: white;
+}
